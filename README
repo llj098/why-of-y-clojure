@@ -1,0 +1,3 @@
+clojure version of Y combinator's derivation.
+
+According to the paper: http://www.dreamsongs.com/Files/WhyOfY.pdf
